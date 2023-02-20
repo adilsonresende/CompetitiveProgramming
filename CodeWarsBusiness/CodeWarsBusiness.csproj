@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="7kyu\" />
+    <Folder Include="5kyu\" />
+    <Folder Include="4kyu\" />
+    <Folder Include="3kyu\" />
+    <Folder Include="2kyu\" />
+    <Folder Include="1kyu\" />
+  </ItemGroup>
+
+</Project>
